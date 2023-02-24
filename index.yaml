@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   consumer-backend:
   - apiVersion: v2
+    appVersion: 0.4.3
+    created: "2023-02-24T07:25:08.748085766Z"
+    description: Consumer Backend Helm Deployment for the Product Passport Application
+    digest: 8d4c8646c4e17a685a4b764f1b7a5afbc61cbda8e0eafbdaef49fe2e324da223
+    name: consumer-backend
+    type: application
+    urls:
+    - https://github.com/eclipse-tractusx/digital-product-pass/releases/download/consumer-backend-0.2.2/consumer-backend-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
     appVersion: 0.4.2
     created: "2023-02-17T13:52:33.161988581Z"
     description: Consumer Backend Helm Deployment for the Product Passport Application
@@ -23,6 +33,16 @@ entries:
     version: 0.2.0
   consumer-ui:
   - apiVersion: v2
+    appVersion: 0.4.3
+    created: "2023-02-24T07:25:08.908021246Z"
+    description: Consumer Frontend Helm Deployment for the Product Passport Application
+    digest: 7f5fe444e70879241c8275a7674812f839acf62271aea5e15f8c941694c915fa
+    name: consumer-ui
+    type: application
+    urls:
+    - https://github.com/eclipse-tractusx/digital-product-pass/releases/download/consumer-ui-0.2.2/consumer-ui-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
     appVersion: 0.4.2
     created: "2023-02-17T13:52:33.308001756Z"
     description: Consumer Frontend Helm Deployment for the Product Passport Application
@@ -42,4 +62,4 @@ entries:
     urls:
     - https://github.com/eclipse-tractusx/digital-product-pass/releases/download/consumer-ui-0.2.0/consumer-ui-0.2.0.tgz
     version: 0.2.0
-generated: "2023-02-17T13:52:33.308011256Z"
+generated: "2023-02-24T07:25:08.908037546Z"
