@@ -222,4 +222,15 @@ entries:
     urls:
     - https://github.com/eclipse-tractusx/digital-product-pass/releases/download/consumer-ui-0.2.0/consumer-ui-0.2.0.tgz
     version: 0.2.0
-generated: "2023-05-09T13:53:26.541595591Z"
+  digital-product-pass:
+  - apiVersion: v2
+    appVersion: 0.7.0
+    created: "2023-05-11T06:55:29.435591437Z"
+    description: A Helm chart for Kubernetes
+    digest: d8fcfa2836d404833a240457b7129e3d4c9b0ec8898df466c31f1475916c61e2
+    name: digital-product-pass
+    type: application
+    urls:
+    - https://github.com/eclipse-tractusx/digital-product-pass/releases/download/digital-product-pass-0.3.2/digital-product-pass-0.3.2.tgz
+    version: 0.3.2
+generated: "2023-05-11T06:55:29.43590224Z"
