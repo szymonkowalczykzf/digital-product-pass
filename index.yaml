@@ -224,6 +224,19 @@ entries:
     version: 0.2.0
   digital-product-pass:
   - apiVersion: v2
+    appVersion: 2.0.2
+    created: "2024-02-02T19:19:16.64218Z"
+    description: A Helm chart for Tractus-X Digital Product Pass Kubernetes
+    digest: 89fe3a3f60148d41222c0ed440f2b9d6ef2ef46f701cd4b794faf2e4071d28a6
+    home: https://github.com/eclipse-tractusx/digital-product-pass/tree/main/charts/digital-product-pass
+    name: digital-product-pass
+    sources:
+    - https://github.com/eclipse-tractusx/digital-product-pass/tree/main/charts/digital-product-pass
+    type: application
+    urls:
+    - https://github.com/eclipse-tractusx/digital-product-pass/releases/download/digital-product-pass-2.0.2/digital-product-pass-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v2
     appVersion: 2.0.1
     created: "2024-01-03T17:18:02.877491821Z"
     description: A Helm chart for Tractus-X Digital Product Pass Kubernetes
@@ -465,4 +478,4 @@ entries:
     urls:
     - https://github.com/eclipse-tractusx/digital-product-pass/releases/download/digital-product-pass-0.3.2/digital-product-pass-0.3.2.tgz
     version: 0.3.2
-generated: "2024-01-03T17:18:02.877674102Z"
+generated: "2024-02-02T19:19:16.642344386Z"
